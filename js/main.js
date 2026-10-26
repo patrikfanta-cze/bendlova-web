@@ -24,3 +24,13 @@ if (video && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
   video.removeAttribute('autoplay');
   video.pause();
 }
+
+// Polaroid: video se přehraje jednou a zůstane na posledním snímku, klepnutím znovu
+const polaroid = document.querySelector('.polaroid video');
+if (polaroid) {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    polaroid.removeAttribute('autoplay');
+    polaroid.addEventListener('loadedmetadata', () => { polaroid.currentTime = polaroid.duration - 0.05; });
+  }
+  polaroid.addEventListener('click', () => { polaroid.currentTime = 0; polaroid.play(); });
+}
