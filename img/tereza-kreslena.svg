@@ -71,12 +71,20 @@
 </g>
 <g class="arms">
   <path fill="#1e1d22" d="M30 300 L52 262 L248 262 L270 300 Z"/>
-  <path fill="#1b1a1f" d="M36 300 L48 280 L228 236 C244 233 254 244 249 257 L238 270 L72 300 Z"/>
-  <path fill="#f3d5c6" d="M232 236 C238 228 254 230 257 240 C259 249 253 257 244 258 C237 258 230 247 232 236 Z"/>
-  <path fill="none" stroke="#d6a28c" stroke-width="1.3" stroke-linecap="round" d="M240 234 L246 252 M247 233 L252 250"/>
-  <path fill="#28272d" d="M264 300 L252 280 L76 244 C60 241 50 252 55 265 L66 276 L230 300 Z"/>
-  <path fill="#f3d5c6" d="M43 248 C45 237 61 234 68 242 C73 249 70 259 62 263 C53 266 42 259 43 248 Z"/>
-  <path fill="none" stroke="#d6a28c" stroke-width="1.3" stroke-linecap="round" d="M52 241 L56 260 M59 240 L63 258"/>
-  <path fill="none" stroke="#3d3c43" stroke-width="2" stroke-linecap="round" d="M84 246 L80 270 M220 238 L224 262"/>
+  <path fill="#1e1d22" d="M34 300 C32 266 42 234 66 212 L94 222 C82 246 80 272 84 300 Z"/>
+  <path fill="#1e1d22" d="M266 300 C268 266 258 234 234 212 L206 222 C218 246 220 272 216 300 Z"/>
+  <path fill="none" stroke="#3a3940" stroke-width="1.6" stroke-linecap="round" d="M48 236 C44 250 42 266 44 284 M252 236 C256 250 258 266 256 284"/>
+  <path fill="#19181d" d="M40 300 C46 285 68 274 100 267 L212 244 C226 241 234 250 230 261 L122 292 C100 298 78 300 66 300 Z"/>
+  <path fill="none" stroke="#33323a" stroke-width="1.6" stroke-linecap="round" d="M70 288 C82 282 92 280 104 279 M60 296 C70 291 80 289 90 289"/>
+  <path fill="#f3d5c6" stroke="#cf9a85" stroke-width="1" d="M216 238 C223 233.5 232 236 232 245 C232.5 254 228 261 221 261 C215 259.5 212 246 216 238 Z"/>
+  <g fill="none" stroke-linecap="round"><g stroke="#cf9a85" stroke-width="6.6"><path d="M228 239 C238 238.5 246 243 250 251"/><path d="M228 245 C239 245.5 247 251.5 250 259"/><path d="M228 251 C238 252.5 246 258.5 248 266"/><path d="M228 257 C236 259 242 263.5 243.5 269.5"/></g><g stroke="#f3d5c6" stroke-width="5"><path d="M228 239 C238 238.5 246 243 250 251"/><path d="M228 245 C239 245.5 247 251.5 250 259"/><path d="M228 251 C238 252.5 246 258.5 248 266"/><path d="M228 257 C236 259 242 263.5 243.5 269.5"/></g></g>
+  <ellipse cx="249.4" cy="250" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(62 249.4 250)"/><ellipse cx="249.6" cy="258" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(66 249.6 258)"/><ellipse cx="247.6" cy="265" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(70 247.6 265)"/><ellipse cx="243.2" cy="268.6" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(72 243.2 268.6)"/>
+  <path fill="#28272d" d="M262 300 C256 285 234 276 204 270 L88 251 C74 249 66 257 70 268 L184 296 C200 300 220 300 234 300 Z"/>
+  <path fill="none" stroke="#3e3d45" stroke-width="1.8" stroke-linecap="round" d="M200 276 C212 280 222 286 230 294 M184 280 C196 283 206 288 212 296 M110 258 L182 270"/>
+  <path fill="#1e1d22" d="M84 249 C78 248 74 254 75 262 C76 268 80 271 86 271 L92 252 Z"/>
+  <path fill="none" stroke="#c9a35a" stroke-width="1.6" d="M80 251 C76 256 76 265 80 270"/>
+  <path fill="#f3d5c6" stroke="#cf9a85" stroke-width="1" d="M66 240 C73 236.5 82 239.5 82 248 C83 257 79 264 72 264.5 C66 263 63 249 66 240 Z"/>
+  <g fill="none" stroke-linecap="round"><g stroke="#cf9a85" stroke-width="6.6"><path d="M70 242.5 C60 242 51 247 47 255"/><path d="M70 248.5 C59 249 50 255 47 263"/><path d="M70 254.5 C60 256 52 262 50 269.5"/><path d="M71 260.5 C63 262.5 57 267 55.5 273"/></g><g stroke="#f3d5c6" stroke-width="5"><path d="M70 242.5 C60 242 51 247 47 255"/><path d="M70 248.5 C59 249 50 255 47 263"/><path d="M70 254.5 C60 256 52 262 50 269.5"/><path d="M71 260.5 C63 262.5 57 267 55.5 273"/></g></g>
+  <ellipse cx="47.6" cy="254" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(-62 47.6 254)"/><ellipse cx="47.4" cy="262" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(-66 47.4 262)"/><ellipse cx="50.4" cy="268.6" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(-70 50.4 268.6)"/><ellipse cx="55.8" cy="272.2" rx="1.7" ry="1.2" fill="#fbeae2" transform="rotate(-72 55.8 272.2)"/>
 </g>
 </svg>
