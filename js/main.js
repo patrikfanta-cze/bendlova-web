@@ -17,3 +17,10 @@ if (form) {
     msg.className = 'form__msg form__msg--ok';
   });
 }
+
+// Video v sekci O mně: při omezení animací zastavit na prvním snímku
+const video = document.querySelector('.about__photo video');
+if (video && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  video.removeAttribute('autoplay');
+  video.pause();
+}

@@ -10,5 +10,6 @@ Stav: **náhled** (noindex). Statický web na GitHub Pages, písmo Plus Jakarta 
 - [ ] Kdo je správce údajů (M&M, nebo Tereza jako OSVČ s IČO?)
 - [ ] Skutečné nabídky, prodané nemovitosti, reference (žádné vymyšlené)
 - [ ] Text „O mně“
+- [ ] Video v O mně je z Hailuo zdarma (vodoznak ořezán, free tarif bývá jen nekomerční) – před ostrým spuštěním vytvořit v placeném tarifu nebo ověřit podmínky
 - [ ] Napojení formuláře (Web3Forms nebo Apps Script), teď jen hláška náhledu
 - [ ] GoatCounter (zakládá Patrik), doména, sitemap, odstranit noindex

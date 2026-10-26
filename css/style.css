@@ -176,7 +176,7 @@ p { margin: 0 0 1em; }
 /* O mně */
 .about { display: grid; grid-template-columns: 320px 1fr; gap: 72px; align-items: center; }
 .about__photo { position: relative; }
-.about__photo img { border-radius: 50%; aspect-ratio: 1; object-fit: cover; object-position: top; width: 100%; }
+.about__photo img, .about__photo video { display: block; border-radius: 50%; aspect-ratio: 1; object-fit: cover; object-position: top; width: 100%; height: auto; background: #c9cbd0; }
 .about__photo svg { position: absolute; inset: -18px; width: calc(100% + 36px); height: calc(100% + 36px); fill: none; stroke: var(--red-deep); stroke-width: 2.2; stroke-linecap: round; filter: url(#tuzka); }
 
 /* Kontakt s vizitkou */
