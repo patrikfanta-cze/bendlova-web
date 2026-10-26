@@ -14,3 +14,4 @@ Stav: **náhled** (noindex). Statický web na GitHub Pages, písmo Plus Jakarta 
 - [ ] Napojení formuláře (Web3Forms nebo Apps Script), teď jen hláška náhledu
 - [ ] GoatCounter (zakládá Patrik), doména, sitemap, odstranit noindex
 - Kreslená animovaná verze (img/tereza-kreslena.svg) zůstává v repu jako záloha, na webu teď není.
+- Video s založenýma rukama (img/tereza-polaroid.mp4) zůstává v repu jako záloha, na webu teď není.
