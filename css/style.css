@@ -47,7 +47,7 @@ p { margin: 0 0 1em; }
 .top__nav .top__cta:hover { background: var(--olive-deep); }
 
 /* Úvod */
-.hero__inner { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: end; min-height: calc(100svh - 76px); }
+.hero__inner { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: end; padding-top: 24px; }
 .hero__text { align-self: center; padding-bottom: 40px; }
 .hero__text p { font-size: 19px; max-width: 28em; margin: 20px 0 32px; color: var(--muted); }
 .hero__btns { display: flex; flex-wrap: wrap; gap: 12px; }
