@@ -37,7 +37,7 @@ if (form) {
 }
 
 // Video v sekci O mně: při omezení animací zastavit na prvním snímku
-document.querySelectorAll('.about__photo video, .polaroid video').forEach((video) => {
+document.querySelectorAll('.omne video').forEach((video) => {
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     video.removeAttribute('autoplay');
     video.pause();
