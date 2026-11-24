@@ -12,6 +12,8 @@ Stav: **náhled** (noindex). Statický web na GitHub Pages, písmo Plus Jakarta 
 - [ ] Text „O mně“
 - [ ] Videa (polaroid i O mně) jsou z Hailuo zdarma (vodoznak ořezán, free tarif bývá jen nekomerční) – před ostrým spuštěním vytvořit v placeném tarifu nebo ověřit podmínky
 - [ ] Napojení formuláře (Web3Forms nebo Apps Script), teď jen hláška náhledu
-- [ ] GoatCounter (zakládá Patrik), doména, sitemap, odstranit noindex
+- [ ] Doména terezabendlova.cz (registruje Tereza na sebe přes WEDOS; IČO 08604592, Zelená 196, Málkov) → pak CNAME, Enforce HTTPS
+- [ ] Do patičky doplnit IČO 08604592 (OSVČ, realitní zprostředkování)
+- [ ] GoatCounter, sitemap, odstranit noindex (až po OK Terezy)
 - Kreslená animovaná verze (img/tereza-kreslena.svg) zůstává v repu jako záloha, na webu teď není.
 - Video s založenýma rukama (img/tereza-polaroid.mp4) zůstává v repu jako záloha, na webu teď není.
